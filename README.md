@@ -5,7 +5,7 @@
 ## Задание
 Перепишите веб-приложение «Витрина интернет-магазина» с использованием Spring Boot на реактивном стеке технологий
 
-Витрина на блокирующем стеке https://github.com/ugaforever/my-market-app
+Витрина на блокирующем стеке https://github.com/ugaforever/market-backend-mvc
 
 ## Стек
 - Java 21, Maven
