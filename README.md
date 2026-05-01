@@ -5,7 +5,7 @@
 ## Задание
 В существующий проект «Витрина интернет-магазина» с RESTful-сервисом платежей, OpenAPI, Redis в качестве кеша товаров внедрить аутентификацию и авторизацию.
 
-Отчет о проделанной работе в Pull request.
+Отчет о проделанной работе в Pull request (https://github.com/ugaforever/market-backend-reactive/pull/6)
 
 https://github.com/ugaforever/market-backend-reactive/tree/module_two_sprint_seven_branch
 
