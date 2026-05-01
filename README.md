@@ -5,7 +5,7 @@
 ## Задание
 На основе существующего проекта «Витрина интернет-магазина» разработать RESTful-сервис платежей с помощью OpenAPI и использовать Redis в качестве кеша товаров.
 
-https://github.com/ugaforever/my-market-app-reactive/tree/module_two_sprint_six_branch
+https://github.com/ugaforever/market-backend-reactive/tree/module_two_sprint_six_branch
 
 ## Стек
 - Java 21, Maven
